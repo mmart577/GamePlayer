@@ -1,14 +1,3 @@
-//  PROGRAMMER:  Melissa Martinez  3327216
-//
-//  CLASS:       COP 3337          TH 10:50-12:35
-//
-//  INSTRUCTOR:  Norman Pestaina   ECS 135
-//
-//  ASSIGNMENT:  #4 Interfaces     DUE Sunday 7/06
-//
-// CERTIFICATION: I certify that this work is my own and that
-//                 none of it is the work of any other person.
-//
 import java.util.Random;
 
 public class RockPaperScissors implements InteractiveGame
